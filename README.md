@@ -1,4 +1,4 @@
-# Hi, I'm Jó Barros 👋
+# Hi, I'm Jó Barros
 
 **Computer Engineering Student | Linux | Networking | Cybersecurity**
 
@@ -10,14 +10,14 @@ I combine academic studies in Computer Engineering with hands-on experience from
 
 ## About Me
 
-- 🎓 Computer Engineering student at **Universidade Aberta**
-- 🐧 Hands-on experience with **Linux system administration**
-- 🌐 Focused on **TCP/IP networking, VPNs and network security**
-- 🐳 Working with **Docker and Docker Compose**
-- 🔐 Building practical knowledge in **cybersecurity and infrastructure hardening**
-- 🧪 Maintaining a personal **Linux homelab**
-- 📚 Currently preparing for **Cisco CCNA**
-- 🇵🇹 Based in Portugal
+- Computer Engineering student at **Universidade Aberta**
+- Hands-on experience with **Linux system administration**
+- Focused on **TCP/IP networking, VPNs and network security**
+- Working with **Docker and Docker Compose**
+- Building practical knowledge in **cybersecurity and infrastructure hardening**
+- Maintaining a personal **Linux homelab**
+- Currently preparing for **Cisco CCNA**
+- Based in Portugal
 
 ---
 
